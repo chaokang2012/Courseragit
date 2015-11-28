@@ -1,2 +1,5 @@
-# Coursera_python
-This is my personal notebook of learning python course of 'An Introduction to Interactive Programming in Python'. 
+# Learning materials of my Coursera
+This is my personal learning materials of 
+1. An Introduction to Interactive Programming in Python.
+2. The data scientist's toolbox
+3. etc.
